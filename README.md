@@ -32,3 +32,6 @@ El script simula un canal ideal sin ruido. La salida en consola mostrará los co
 
 ## Autor
 P. Merino Barrera I.E.S. Santa Eulalia (Mérida, España)
+
+## Cite this work:
+Merino Barrera, P. (2026). Entrelazamiento Cuántico y sus Aplicaciones en la Computación Cuántica (1.0). Zenodo. https://doi.org/10.5281/zenodo.18123328
